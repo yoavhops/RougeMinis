@@ -736,7 +736,7 @@ MonoBehaviour:
     isFacAbility: 0
     type: 0
     YoavDammageBlunt: 0
-    YoavDammageAcid: 0
+    YoavDammageAcid: 16
     YoavDammageSlash: 0
     HitOnTurnStart: 0
     targetType: 0
@@ -796,7 +796,7 @@ MonoBehaviour:
     type: 0
     YoavDammageBlunt: 0
     YoavDammageAcid: 0
-    YoavDammageSlash: 10
+    YoavDammageSlash: 12
     HitOnTurnStart: 0
     targetType: 0
     requireTarget: 1
@@ -913,8 +913,8 @@ MonoBehaviour:
     isFacAbility: 0
     type: 0
     YoavDammageBlunt: 0
-    YoavDammageAcid: 0
-    YoavDammageSlash: 4
+    YoavDammageAcid: 3
+    YoavDammageSlash: 0
     HitOnTurnStart: 1
     targetType: 0
     requireTarget: 0
@@ -926,6 +926,183 @@ MonoBehaviour:
     moveCost: 0
     attackCost: 0
     abilityCost: 100
+    apCost: 0
+    endAllActionAfterUse: 1
+    cooldown: 0
+    useLimit: 0
+    impactDelay: 0
+    impactType: 1
+    hpModifierMin: 5
+    hpModifierMax: 6
+    apModifierMin: 0
+    apModifierMax: 5
+    damageType: 0
+    attack: 100
+    hitChance: 100
+    critChance: 0
+    critMultiplier: 2
+    factorInTargetStats: 1
+    effHitChance: 0
+    effectIDList: 
+    clearAllEffect: 0
+    switchFaction: 0
+    switchFacControllable: 1
+    duration: 1
+    useAttackSequence: 1
+    aimAtUnit: 0
+    shootObject: {fileID: 0}
+    effectOnUse:
+      obj: {fileID: 0}
+      autoDestroy: 1
+      duration: 1.5
+    effectOnHit:
+      obj: {fileID: 0}
+      autoDestroy: 1
+      duration: 1.5
+    activateSound: {fileID: 0}
+  - prefabID: 16
+    instanceID: -1
+    icon: {fileID: 21300102, guid: 829675e3673863042b49e7db0431f3e3, type: 3}
+    name: MaceAttack
+    desp: Item's description
+    srcUnit: {fileID: 0}
+    facID: 0
+    index: 0
+    isUnitAbility: 0
+    isFacAbility: 0
+    type: 0
+    YoavDammageBlunt: 10
+    YoavDammageAcid: 0
+    YoavDammageSlash: 0
+    HitOnTurnStart: 0
+    targetType: 0
+    requireTarget: 1
+    requireLos: 1
+    range: 1
+    aoeRange: 0
+    useLineAOE: 0
+    spawnUnitPrefab: {fileID: 0}
+    moveCost: 0
+    attackCost: 0
+    abilityCost: 1
+    apCost: 0
+    endAllActionAfterUse: 1
+    cooldown: 0
+    useLimit: 0
+    impactDelay: 0
+    impactType: 1
+    hpModifierMin: 5
+    hpModifierMax: 6
+    apModifierMin: 0
+    apModifierMax: 5
+    damageType: 0
+    attack: 100
+    hitChance: 100
+    critChance: 0
+    critMultiplier: 2
+    factorInTargetStats: 1
+    effHitChance: 0
+    effectIDList: 
+    clearAllEffect: 0
+    switchFaction: 0
+    switchFacControllable: 1
+    duration: 1
+    useAttackSequence: 1
+    aimAtUnit: 0
+    shootObject: {fileID: 0}
+    effectOnUse:
+      obj: {fileID: 0}
+      autoDestroy: 1
+      duration: 1.5
+    effectOnHit:
+      obj: {fileID: 0}
+      autoDestroy: 1
+      duration: 1.5
+    activateSound: {fileID: 0}
+  - prefabID: 17
+    instanceID: -1
+    icon: {fileID: 21300102, guid: 829675e3673863042b49e7db0431f3e3, type: 3}
+    name: SpearAttack
+    desp: Item's description
+    srcUnit: {fileID: 0}
+    facID: 0
+    index: 0
+    isUnitAbility: 0
+    isFacAbility: 0
+    type: 0
+    YoavDammageBlunt: 0
+    YoavDammageAcid: 10
+    YoavDammageSlash: 0
+    HitOnTurnStart: 0
+    targetType: 0
+    requireTarget: 1
+    requireLos: 1
+    range: 2
+    aoeRange: 0
+    useLineAOE: 0
+    spawnUnitPrefab: {fileID: 0}
+    moveCost: 0
+    attackCost: 0
+    abilityCost: 1
+    apCost: 0
+    endAllActionAfterUse: 1
+    cooldown: 0
+    useLimit: 0
+    impactDelay: 0
+    impactType: 1
+    hpModifierMin: 5
+    hpModifierMax: 6
+    apModifierMin: 0
+    apModifierMax: 5
+    damageType: 0
+    attack: 100
+    hitChance: 100
+    critChance: 0
+    critMultiplier: 2
+    factorInTargetStats: 1
+    effHitChance: 0
+    effectIDList: 
+    clearAllEffect: 0
+    switchFaction: 0
+    switchFacControllable: 1
+    duration: 1
+    useAttackSequence: 1
+    aimAtUnit: 0
+    shootObject: {fileID: 0}
+    effectOnUse:
+      obj: {fileID: 0}
+      autoDestroy: 1
+      duration: 1.5
+    effectOnHit:
+      obj: {fileID: 0}
+      autoDestroy: 1
+      duration: 1.5
+    activateSound: {fileID: 0}
+  - prefabID: 18
+    instanceID: -1
+    icon: {fileID: 21300102, guid: 829675e3673863042b49e7db0431f3e3, type: 3}
+    name: ThrowRock
+    desp: Item's description
+    srcUnit: {fileID: 0}
+    facID: 0
+    index: 0
+    isUnitAbility: 0
+    isFacAbility: 0
+    type: 0
+    YoavDammageBlunt: 6
+    YoavDammageAcid: 0
+    YoavDammageSlash: 0
+    HitOnTurnStart: 0
+    targetType: 0
+    requireTarget: 1
+    requireLos: 1
+    range: 5
+    aoeRange: 0
+    useLineAOE: 0
+    spawnUnitPrefab: {fileID: 0}
+    moveCost: 0
+    attackCost: 0
+    abilityCost: 1
     apCost: 0
     endAllActionAfterUse: 1
     cooldown: 0

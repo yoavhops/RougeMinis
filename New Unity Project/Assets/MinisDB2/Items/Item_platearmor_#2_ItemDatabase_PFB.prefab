@@ -135,10 +135,14 @@ MonoBehaviour:
   _rarity: {fileID: 11400000, guid: d15000d6d2abb01418993549ff8e59b3, type: 2}
   _stats:
   - _stat: {fileID: 11400000, guid: b19b81d1504a3d145b69a2e1d4d2ba82, type: 2}
-    value: 4
+    value: 14
     isFactor: 0
     actionEffect: 2
   - _stat: {fileID: 11400000, guid: 55b9a880cf1ffe24ea6e049d6295b076, type: 2}
+    value: 2
+    isFactor: 0
+    actionEffect: 2
+  - _stat: {fileID: 11400000, guid: e35bd72a71204024aad32345d644d203, type: 2}
     value: 2
     isFactor: 0
     actionEffect: 2

@@ -21,6 +21,10 @@ MonoBehaviour:
   - {fileID: 6695785757550005693, guid: 727c1a009ce039840b1addf14c02803a, type: 3}
   - {fileID: 4911104048089262985, guid: 5609465b675b4f343b85c00b956c2d16, type: 3}
   - {fileID: 8852907191152858087, guid: 7e8dc3d634923d9479b4b7f632cfd81e, type: 3}
+  - {fileID: 5203858054027332475, guid: 1f07f5ad015712446812711c98e8092d, type: 3}
+  - {fileID: 8954675474223621016, guid: 1f127fbe5973ba54893460eb00097fbc, type: 3}
+  - {fileID: 4439956887218738719, guid: c6a1875670926e24e970802b5cf390de, type: 3}
+  - {fileID: 5854321602107816635, guid: f1b6d219fb194854fb8b994c88ffd4bf, type: 3}
   rarities:
   - {fileID: 11400000, guid: d15000d6d2abb01418993549ff8e59b3, type: 2}
   categories:
@@ -32,6 +36,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: b19b81d1504a3d145b69a2e1d4d2ba82, type: 2}
   - {fileID: 11400000, guid: 1ff61d3038b97184cbe72b619b00673d, type: 2}
   - {fileID: 11400000, guid: e3a67166ee9c5f743a0be9a5f3191d06, type: 2}
+  - {fileID: 11400000, guid: e35bd72a71204024aad32345d644d203, type: 2}
   equipmentTypes:
   - {fileID: 11400000, guid: c94a5dd768521484b91f6a7b27fc5502, type: 2}
   - {fileID: 11400000, guid: 0fd88523e04a1874e86bfbda59624109, type: 2}

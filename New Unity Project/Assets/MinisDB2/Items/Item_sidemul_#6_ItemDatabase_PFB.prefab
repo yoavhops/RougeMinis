@@ -114,7 +114,7 @@ MonoBehaviour:
   _category: {fileID: 11400000, guid: 7748d1d6f8827de47a80081bc4632c75, type: 2}
   _useCategoryCooldown: 1
   _overrideDropObjectPrefab: {fileID: 0}
-  _icon: {fileID: 21300294, guid: bddecc020f6bf0445b97e3d1be62d39c, type: 3}
+  _icon: {fileID: 21300300, guid: bddecc020f6bf0445b97e3d1be62d39c, type: 3}
   _layoutSizeCols: 1
   _layoutSizeRows: 1
   _weight: 0

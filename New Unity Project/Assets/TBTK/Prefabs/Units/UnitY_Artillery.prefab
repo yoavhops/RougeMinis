@@ -113,6 +113,7 @@ MonoBehaviour:
     YoavResisAcid: 0
     YoavResisSlash: 0
     SideMul: 1
+    ExtraWalk: 0
     hp: 12
     ap: 12
     hpRegen: 0
@@ -158,6 +159,7 @@ MonoBehaviour:
     YoavResisAcid: 0
     YoavResisSlash: 0
     SideMul: 1
+    ExtraWalk: 0
     hp: 10
     ap: 10
     hpRegen: 0
@@ -224,6 +226,7 @@ MonoBehaviour:
       YoavResisAcid: 0
       YoavResisSlash: 0
       SideMul: 1
+      ExtraWalk: 0
       hp: 0
       ap: 0
       hpRegen: 0
@@ -288,6 +291,7 @@ MonoBehaviour:
       YoavResisAcid: 0
       YoavResisSlash: 0
       SideMul: 1
+      ExtraWalk: 0
       hp: 1
       ap: 1
       hpRegen: 1
