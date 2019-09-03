@@ -41,7 +41,7 @@ GameObject:
   - component: {fileID: 400002}
   - component: {fileID: 114924715402197092}
   m_Layer: 0
-  m_Name: UnitRMinis_Alon_Human
+  m_Name: UnitRMinis_Other_Human
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -76,10 +76,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f3e65cdc3be52354583818ea1257da3e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabID: 22
+  prefabID: 26
   instanceID: -1
   icon: {fileID: 21300034, guid: 829675e3673863042b49e7db0431f3e3, type: 3}
-  itemName: AlonHuman
+  itemName: OtherHuman
   desp: A more advance light-tank that packs more fire power
   thisT: {fileID: 0}
   thisObj: {fileID: 0}
@@ -322,7 +322,7 @@ MonoBehaviour:
       YoavResisAcid: 1
       YoavResisSlash: 1
       SideMul: 1
-      ExtraWalk: 1
+      ExtraWalk: 0
       hp: 1
       ap: 1
       hpRegen: 1

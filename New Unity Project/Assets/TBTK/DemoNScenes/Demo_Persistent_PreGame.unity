@@ -13813,10 +13813,10 @@ MonoBehaviour:
   lbValue: {fileID: 841832212}
   lbTextMinisItem: {fileID: 153042020}
   unitPoolList:
-  - {fileID: 114924715402197092, guid: e75e45cefaac00442ad2bff00e079cbe, type: 3}
-  - {fileID: 114924715402197092, guid: 96130aa477e70d94c95f81237ff3d238, type: 3}
-  - {fileID: 114924715402197092, guid: b48dfb9fc6bc45f4aafe0bddf24ad8e7, type: 3}
-  - {fileID: 114924715402197092, guid: b97048ca91d2eae479b8b89ac92501ca, type: 3}
+  - {fileID: 114924715402197092, guid: 33d4507a7eb229e4482882813e34548b, type: 3}
+  - {fileID: 114924715402197092, guid: be41d5e21f1b70d45b1d9597eb89377f, type: 3}
+  - {fileID: 114924715402197092, guid: cceec84184cb08044ad38c3e5b2b115b, type: 3}
+  - {fileID: 114924715402197092, guid: 45156051d903b404b8416ade0add11ba, type: 3}
   - {fileID: 114924715402197092, guid: 98959c091d9bf8746a82693352edb9fa, type: 3}
   squadList: []
 --- !u!1 &1165847246
